@@ -1,8 +1,11 @@
 # 💫 Hallo, ich bin Lias
-🔭 Momentan arbeite ich an:
+🔭 Momentan arbeite ich an:<br>
 Einer Wetter App<br>
-I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Im moment lerne ich:<br>
+Python, avaScript, HTML/CSS<br>
+💬 Ask me about<br>
+⚡ Fun fact
+<br>
 
 # 💻 Erfahrung:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
