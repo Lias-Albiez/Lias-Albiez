@@ -1,9 +1,8 @@
 # 💫 Hallo, ich bin Lias
-🔭 Momentan arbeite ich an:<br>
-Einer Wetter App<br>
+🔭 Schüler, 14 Jahre alt
 Im moment lerne ich:<br>
-Python, avaScript, HTML/CSS<br>
-💬 Ask me about<br>
+Python, JavaScript, HTML/CSS<br>
+
 ⚡ Fun fact
 <br>
 
