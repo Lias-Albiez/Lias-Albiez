@@ -1,5 +1,6 @@
 # 💫 Hallo, ich bin Lias
-🔭 I’m currently working on<br>
+🔭 Momentan arbeite ich an:
+Einer Wetter App<br>
 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
